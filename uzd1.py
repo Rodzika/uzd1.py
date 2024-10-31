@@ -1,5 +1,5 @@
-x=(input("Enter x:"))
-y=(input("Enter y:"))
+x=int(input("Enter x:"))
+y=int(input("Enter y:"))
 
 result1= 4*(2**(x*y)) / (x * y) 
  
