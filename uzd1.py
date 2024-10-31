@@ -17,7 +17,5 @@ result= 2*(x*y) / 5*y
 
 print(result)
 
-#2.uzd
-
 x==1
 y==2
