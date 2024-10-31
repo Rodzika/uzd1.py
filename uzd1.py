@@ -1,21 +1,21 @@
 x=(input("Enter x:"))
 y=(input("Enter y:"))
 
-result= 4*(2**(x*y)) / (x * y) 
+result1= 4*(2**(x*y)) / (x * y) 
  
-print(result)
+print(result1)
 
-result= 5 * x ** 3 - x ** 2 + 7 * x - 6
+result2= 5 * x ** 3 - x ** 2 + 7 * x - 6
  
-print(result)
+print(result2)
  
-result= (x*y)**0.5
+result3= (x*y)**0.5
  
-print(result)
+print(result3)
  
-result= 2*(x*y) / 5*y
+result4= 2*(x*y) / 5*y
 
-print(result)
+print(result4)
 
 x==1
 y==2
