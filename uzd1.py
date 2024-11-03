@@ -17,5 +17,3 @@ result4= 2*(x*y) / 5*y
 
 print(result4)
 
-x==1
-y==2
